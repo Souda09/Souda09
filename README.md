@@ -1,51 +1,14 @@
-Hi 👋 I'm Souda Bibi
-🚀 MERN Stack Developer in Progress | Problem Solver | Frontend Enthusiast
+Hi 👋, I'm Souda Bibi
+A passionate MERN Stack Developer in progress, focused on building real-world, scalable web applications with modern JavaScript technologies.
 
-I am a passionate web developer focused on building real-world, scalable, and user-friendly applications using modern JavaScript technologies.
+I enjoy solving complex problems and turning ideas into clean, efficient, and user-friendly solutions. My goal is to continuously improve my development skills while creating impactful digital experiences.
 
-I enjoy solving complex problems, writing clean code, and continuously learning new tools to improve my development skills.
-
-🌱 Currently Learning
-
-MongoDB
-
-Express.js
-
-Advanced React Patterns
-
-Backend Development with Node.js
-
-💻 Tech Stack
-
-Frontend:
-HTML5 | CSS3 | JavaScript (ES6+) | TypeScript | React.js | Vite
-
-Backend & Database:
-MongoDB | Express.js | Supabase
-
-Deployment & Tools:
-Vercel | Netlify | Git | GitHub | Canva
-
-Other Languages:
-C | Java
-
-💡 Strengths
-
-✔ Problem-Solving
-✔ Logical Thinking
-✔ Responsive Web Design
-✔ Clean & Maintainable Code
-
-🌐 Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/souda-bibi-79114a31b
-
-📧 Email: soudabibi13@gmail.com
-
-👨‍💻 GitHub Projects: https://github.com/Souda09
-
-✨ “Building today to create better digital experiences tomorrow.”
-
+🌱 Currently learning and exploring: MongoDB, Express.js, and advanced React patterns
+🛠 Tech Stack: HTML | CSS | JavaScript (ES6+) | TypeScript | React.js | Supabase
+🚀 Deployment & Tools: Vercel | Netlify | Git | GitHub
+💡 Strengths: Problem-solving, logical thinking, responsive UI development
+👨‍💻 Projects: https://github.com/Souda09
+📫 Contact: soudabibi13@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souda-bibi-79114a31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soudabibi13@gmail.com) 
