@@ -7,6 +7,7 @@ I enjoy solving complex problems and turning ideas into clean, efficient, and us
 🛠 Tech Stack: HTML | CSS | JavaScript (ES6+) | TypeScript | React.js | Supabase
 🚀 Deployment & Tools: Vercel | Netlify | Git | GitHub
 💡 Strengths: Problem-solving, logical thinking, responsive UI development
+
 👨‍💻 Projects: https://github.com/Souda09
 📫 Contact: soudabibi13@gmail.com
 
