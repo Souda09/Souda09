@@ -1,12 +1,28 @@
-Hi 👋, I'm Souda Bibi
-A passionate MERN Stack Developer in progress, focused on building real-world, scalable web applications with modern JavaScript technologies.
+👋 Hi, I'm Souda Bibi
+Aspiring MERN Stack Developer 🚀
 
-I enjoy solving complex problems and turning ideas into clean, efficient, and user-friendly solutions. My goal is to continuously improve my development skills while creating impactful digital experiences.
+I specialize in building scalable, real-world web applications using modern JavaScript ecosystems. I am passionate about transforming complex logic into clean, efficient, and user-centric digital experiences.
 
-🌱 Currently learning and exploring: MongoDB, Express.js, and advanced React patterns
-🛠 Tech Stack: HTML | CSS | JavaScript (ES6+) | TypeScript | React.js | Supabase
-🚀 Deployment & Tools: Vercel | Netlify | Git | GitHub
-💡 Strengths: Problem-solving, logical thinking, responsive UI development
+🛠️ Technical Stack
+Frontend: React.js | TypeScript | JavaScript (ES6+)
+Styling: HTML5 | CSS3 | Responsive UI Design
+Backend & Database: Supabase | (Learning: MongoDB & Express.js)
+Programming Languages: C | Java
+
+🚀 Tools & Deployment
+Version Control: Git | GitHub
+Build Tools: Vite | Vercel | Netlify
+Design: Canva
+
+🌱 Current Learning Path
+Advanced React Patterns
+Full-stack integration with Node.js
+Scalable Database Architecture
+
+💡 Core Strengths
+Analytical Problem Solving
+Logical Thinking
+Clean Code Architecture
 
 👨‍💻 Projects: https://github.com/Souda09
 📫 Contact: soudabibi13@gmail.com
